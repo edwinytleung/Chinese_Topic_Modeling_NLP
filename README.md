@@ -26,4 +26,4 @@ A. Classify these Weibo posts into 13 categories of interest according to the be
 B) Based on the social network’s likes, retweets, comments and the city of the commentators of each post, please find out the ranking of the 13 interest categories (a) within each city and (b) across the cities according to their popularity. The most popular interest should be put at first.
 
 
-** Just an initial commit
+**Just an initial commit, subject to change**
